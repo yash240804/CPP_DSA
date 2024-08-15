@@ -33,3 +33,17 @@
 17)Prime
 
 18)Fibonacci Series
+
+19)Star pattern 1
+
+20)Number Pattern 1
+
+21)Number Pattern 2
+
+22)Number Pattern 3
+
+23)Alphabet Pattern 1
+
+24)Alphabet Pattern 2
+
+25)Number Pattern 4

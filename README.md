@@ -57,3 +57,13 @@
 29)Number Pattern 6
 
 30)Alphabet Pattern 3
+
+31)Star Pattern 4
+
+32)Number Pattern 7
+
+33)Alphabet Pattern 4
+
+34)Number Pattern 8
+
+35)Star Pattern 5

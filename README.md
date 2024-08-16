@@ -47,3 +47,13 @@
 24)Alphabet Pattern 2
 
 25)Number Pattern 4
+
+26)Star Pattern 2
+
+27)Number Pattern 5
+
+28)Star Pattern 3
+
+29)Number Pattern 6
+
+30)Alphabet Pattern 3

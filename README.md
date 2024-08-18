@@ -67,3 +67,17 @@
 34)Number Pattern 8
 
 35)Star Pattern 5
+
+36)Number Pattern 8
+
+37)Star Pattern 6
+
+38)Star Pattern 7
+
+39)Star Pattern 8
+
+40)Star Pattern 9
+
+41)Number Pattern 9
+
+42)Alphabet Pattern 5

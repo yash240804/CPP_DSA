@@ -9,5 +9,6 @@ int main(){
         i++;
     }
     cout<<fact;
+    
     return 0;   
 }

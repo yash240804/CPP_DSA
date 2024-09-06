@@ -11,6 +11,6 @@ int main(){
         ans = rem * mul + ans;
         mul *= 10;
     }
-    cout<<"Enterd number in decimal: "<<ans;
+    cout<<"Enterd number in binary: "<<ans;
     return 0;
 }

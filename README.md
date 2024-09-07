@@ -81,3 +81,19 @@
 41)Number Pattern 9
 
 42)Alphabet Pattern 5
+
+43)(While loop)
+
+44)Even Number(While loop)
+
+45)Factorial(While loop)
+
+46)Star Pattern 10
+
+47)Binary to decimal
+
+48)Decimal to binary
+
+49)Binary to octa
+
+50)Octa to binary

@@ -97,3 +97,15 @@
 49)Binary to octa
 
 50)Octa to binary
+
+51)Function overloading
+
+52)Swap function
+
+53)Leap year gfg
+
+54)Cube using function
+
+55)Reverse with constraints -5000<=n<=5000
+
+56)Swap without temp variable

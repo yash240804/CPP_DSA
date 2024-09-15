@@ -10,5 +10,6 @@ int main(){
     cout<<min(n, m)<<endl;
     cout<<max(n, m)<<endl;
     //tolower(); toupper();
+    // sin cos
     return 0;
 }

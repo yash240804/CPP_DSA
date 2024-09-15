@@ -1,11 +1,14 @@
 #include<iostream>
+#include<cmath>
 using namespace std;
+
 int main(){
-    int arr[5] = {1, 2, 3, 4, 5};
-    // or like this also arr[] = {1, 2, 3, 4, 5}; you dont need to mention size of array.
-    for (int i = 0; i < 5; i++)
-    {
-        cout<<arr[i];
-    }
+    int n, m;
+    cin>>n>>m;
+    cout<<sqrt(n)<<endl;
+    cout<<pow(n, 2)<<endl;
+    cout<<min(n, m)<<endl;
+    cout<<max(n, m)<<endl;
+    //tolower(); toupper();
     return 0;
 }

@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-void insertionsort(char arr[], int size){
+void selectionsort(char arr[], int size){
     int index;
     for (int i = 0; i < size - 1; i++){
         index = i;
@@ -19,7 +19,7 @@ int main(){
     for (int i = 0; i < n; i++){
         cin>>arr[i];
     }
-    insertionsort(arr, n);
+    selectionsort(arr, n);
     for (int i = 0; i < n; i++){
         cout<<arr[i]<<" ";
     }

@@ -109,3 +109,29 @@
 55)Reverse with constraints -5000<=n<=5000
 
 56)Swap without temp variable
+
+57)Armstrong Number
+
+58)Charcter convert to Upper_case
+
+59)5 different inbuild function
+
+60)Array Notes 1(Size as variable)
+
+61)Array input and output
+
+62)Array Notes 2(Sizeof() operator)
+
+63)Find max element in array
+
+64)Array Notes 2(Declaration of array)
+
+65)Sum of element of array
+
+66)Average of element of array
+
+67)Linear search
+
+68)A to z using array
+
+69)Second max element in array

@@ -135,3 +135,37 @@
 68)A to z using array
 
 69)Second max element in array
+
+70)Fibonacci Series using array
+
+71)Reverse a array
+
+72)Swap three numbers using function
+
+73)Selection sort 1
+
+74)Selection sort 2
+
+75)Selection sort 3
+
+76)Selection sort 4
+
+77)Selection sort 5
+
+78)Bubble sort 1
+
+79)Bubble sort 2
+
+80)Bubble sort 3
+
+81)Bubble sort 4
+
+82)Insertion sort 1
+
+83)Binary Search
+
+84)Third Maximum element in array
+
+85)SquaresInChessBoard
+
+86)Vector Function

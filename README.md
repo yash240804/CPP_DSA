@@ -169,3 +169,5 @@
 85)SquaresInChessBoard
 
 86)Vector Function
+
+87)Insertion Sort 2

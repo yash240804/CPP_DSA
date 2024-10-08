@@ -8,4 +8,5 @@ vec.insert() to insert in a array
 vec.size() to get the size of array or vector
 vec.push_back() to insert in vector from back or end
 vec.pop_back() to delete in vector from back or end
+auto / std::vector<int>::iterator - uto automatically deduces the correct type of the iterator when you assign the result of nums.begin() or nums.end() to a variable. In the case of a std::vector<int>, the type deduced will be something like std::vector<int>::iterator
 */
